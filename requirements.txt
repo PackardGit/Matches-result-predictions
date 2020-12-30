@@ -1,0 +1,9 @@
+numpy == 1.18.5
+pandas == 1.0.3
+re == 2.2.1
+matplotlib
+os
+csv == 1.0
+wordcloud
+textblob
+tweepy == 3.10.0
