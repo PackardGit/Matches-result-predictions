@@ -7,3 +7,4 @@ csv == 1.0
 wordcloud
 textblob
 tweepy == 3.10.0
+vaderSentiment
